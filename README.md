@@ -1,4 +1,4 @@
-# apex-legends-tracker
+# Apex Legends Track Player Stats
 
 Demo 
 ```
